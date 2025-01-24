@@ -1,4 +1,7 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
+# Symptom Sense
+
+
+
 Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
 
 User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
@@ -29,7 +32,7 @@ Below is the features are highly affected by the selection of the diseases.
 
 ## Deployment
 
-To deploy this project on [render](https://dashboard.render.com/)
+[SymptomSense](https://symptomsense.onrender.com/)
 
 
 
